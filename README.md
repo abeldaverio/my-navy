@@ -16,6 +16,6 @@ and ```make && ./my_navy pid1 map2``` in the second terminal.
 
 
 ## Contributors
-| Gauthier Fagot                                           | Abel Daverio                                          
+| Gauthier Fagot                                           | Abel Daverio                                           
 |-----------------------------------------------------------|-----------------------------------------------------------|
 | <img src="https://github.com/gauthierfagot.png" width="250em"/> | <img src="https://github.com/abeldaverio.png" width="250em"/> |
